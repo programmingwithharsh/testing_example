@@ -1,4 +1,4 @@
-const { findUser, saveUser } = require("./db");
+const { findUser, saveUser } = require("../db");
 
 describe('DB module direct tests', () => {
     test('should save and find user', () => {
