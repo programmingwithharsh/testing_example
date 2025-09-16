@@ -1,0 +1,25 @@
+{
+  "name": "testing_example",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmingwithharsh/testing_example.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Harsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/programmingwithharsh/testing_example/issues"
+  },
+  "homepage": "https://github.com/programmingwithharsh/testing_example#readme",
+  "dependencies": {
+    "jest": "^30.1.3"
+  }
+}
